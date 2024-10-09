@@ -1,0 +1,10 @@
+^C:\USERS\AKOESTERS\DOCUMENTS\GITHUB\WHATSAPPSPAMER\WHATSAPP_SPAMER\BUILD\WINDOWS\X64\CMAKEFILES\C4E9A4DEF060BEFA70EC92D916B28939\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\akoesters\Documents\GitHub\whatsappSpamer\whatsapp_spamer\build\windows\x64\CMakeFiles\a8ba3604b46418e82ab633efcfc6fb58\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\akoesters\Documents\GitHub\whatsappSpamer\whatsapp_spamer\build\windows\x64\CMakeFiles\bfaf82bffc047de162fba6c319521a1f\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\akoesters\Documents\GitHub\whatsappSpamer\whatsapp_spamer\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\akoesters\Documents\GitHub\whatsappSpamer\whatsapp_spamer\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D2472F78-49DB-30CE-A8A7-F17EBBC77623}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

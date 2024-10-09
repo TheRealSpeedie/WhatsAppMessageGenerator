@@ -1,0 +1,28 @@
+^C:\USERS\AKOESTERS\DOCUMENTS\GITHUB\WHATSAPPSPAMER\WHATSAPP_SPAMER\BUILD\WINDOWS\X64\CMAKEFILES\A8BA3604B46418E82AB633EFCFC6FB58\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Flutter\flutter PROJECT_DIR=C:\Users\akoesters\Documents\GitHub\whatsappSpamer\whatsapp_spamer FLUTTER_ROOT=C:\Flutter\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\akoesters\Documents\GitHub\whatsappSpamer\whatsapp_spamer\windows\flutter\ephemeral PROJECT_DIR=C:\Users\akoesters\Documents\GitHub\whatsappSpamer\whatsapp_spamer FLUTTER_TARGET=C:\Users\akoesters\Documents\GitHub\whatsappSpamer\whatsapp_spamer\lib\main.dart DART_DEFINES=Zmx1dHRlci5pbnNwZWN0b3Iuc3RydWN0dXJlZEVycm9ycz10cnVl DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\akoesters\Documents\GitHub\whatsappSpamer\whatsapp_spamer\.dart_tool\package_config.json C:/Flutter/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\AKOESTERS\DOCUMENTS\GITHUB\WHATSAPPSPAMER\WHATSAPP_SPAMER\BUILD\WINDOWS\X64\CMAKEFILES\BFAF82BFFC047DE162FBA6C319521A1F\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\AKOESTERS\DOCUMENTS\GITHUB\WHATSAPPSPAMER\WHATSAPP_SPAMER\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/akoesters/Documents/GitHub/whatsappSpamer/whatsapp_spamer/windows -BC:/Users/akoesters/Documents/GitHub/whatsappSpamer/whatsapp_spamer/build/windows/x64 --check-stamp-file C:/Users/akoesters/Documents/GitHub/whatsappSpamer/whatsapp_spamer/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

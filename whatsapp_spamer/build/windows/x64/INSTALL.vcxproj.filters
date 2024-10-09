@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\akoesters\Documents\GitHub\whatsappSpamer\whatsapp_spamer\build\windows\x64\CMakeFiles\c4e9a4def060befa70ec92d916b28939\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D2472F78-49DB-30CE-A8A7-F17EBBC77623}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
