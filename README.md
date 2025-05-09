@@ -1,26 +1,24 @@
-
 # 📲 WhatsApp Message Generator 💬
+A WhatsApp message generator that helps you create and send annoyingly long messages to your friends! 🚀
 
-Ein **WhatsApp-Nachrichtengenerator**, der dir hilft, nervige Nachrichten zu erstellen und an deine Freunde zu senden! 🚀
+## 💡 How It Works
+1. Enter your text – Type in the message you want to repeat.
+2. Set repetitions – Choose how many times it should be repeated.
+3. Select contact – Pick a contact to send the message to.
+4. Send message – Hit "Send WhatsApp Message" and voilà, a giant message is generated!
 
-## 💡 Wie es funktioniert  
-1. **Wähle den Text** – Gib den gewünschten Text ein, den du wiederholen möchtest.  
-2. **Wiederholungen festlegen** – Bestimme, wie oft der Text wiederholt werden soll.  
-3. **Kontakte auswählen** – Wähle einen Kontakt aus, an den die Nachricht gesendet wird.  
-4. **Nachricht senden** – Drücke auf "Send WhatsApp Message" und voila, eine lange Nachricht wird generiert!
+## 🚀 Features
+✅ Text repetition – Repeat any text as many times as you want.
+✅ Contact selection – Send to a specific WhatsApp contact.
+✅ Live preview – See the message before it’s sent.
+✅ Annoying message spam – Perfect to confuse your friends!
+✅ Simple UI – Clean and user-friendly interface.
 
-## 🚀 Features  
-✅ **Textwiederholung** – Wiederhole deinen Text beliebig oft.  
-✅ **Kontakt auswählen** – Sende die Nachricht an einen spezifischen Kontakt.  
-✅ **Echtzeit-Vorschau** – Sieh dir die Nachricht vor dem Senden an.  
-✅ **Nervige Nachrichten** – Perfekt, um deine Freunde zu verwirren!  
-✅ **Einfache Bedienung** – Klarer und benutzerfreundlicher Flow.  
+## 🛠️ Tech Stack
+- Flutter – Cross-platform app development
+- Dart – Main programming language
 
-## 🛠️ Tech Stack  
-- **Flutter** – Cross-Platform App-Entwicklung  
-- **Dart** – Hauptprogrammiersprache  
-
-## 🔧 Installation  
+## 🔧 Installation
 
 ```bash
 git clone https://github.com/DeinBenutzername/WhatsAppMessageGenerator.git
@@ -29,15 +27,14 @@ flutter pub get
 flutter run
 ```
 
-## 📌 To-Do / In Progress  
-- Fehlerbehebung bei der Wiederholung von Texten, die länger sind als WhatsApp-Nachrichtenlimit  
-- Verbesserte Benutzeroberfläche für die Kontaktwahl
+## 📌 To-Do / In Progress
+- Fix issue with text exceeding WhatsApp’s message length limit
+- Improve contact selection interface
 
-🤝 Contributing  
-Beiträge sind willkommen! Forke das Repo, öffne ein Issue oder schicke einen Pull Request.
+## 🤝 Contributing
+Contributions are welcome! Fork the repo, open an issue, or submit a pull request.
 
-📜 License  
-Dieses Projekt ist unter der MIT-Lizenz lizenziert – siehe die LICENSE-Datei für Details.
-
+📜 License
+This project is licensed under the MIT License – see the LICENSE file for details.
 
 <img src="https://github.com/user-attachments/assets/4d5c7282-3804-43f9-98b1-47e27c0de6bf" alt="Picture of Design" width="300"/>
